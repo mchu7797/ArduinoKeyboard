@@ -1,3 +1,5 @@
+// 2019, Minseok Choo
+
 #include <Keyboard.h>
 
 #define MapLength 7
